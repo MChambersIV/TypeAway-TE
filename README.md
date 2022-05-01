@@ -1,5 +1,5 @@
 # TypeAway-TE
-This is an application for taking notes and viewing previously saved notes. Once on the landing page, click on the Get Started Button to create a new note and view previously saved notes.
+TypeAway is a simple text editor that remains completely functional offline, it is also my first foray into PWAs.
 
 It uses a host of technologies such as IndexedDB, WebPack, and Workbox to name a few.
 
