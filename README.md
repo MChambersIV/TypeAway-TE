@@ -3,7 +3,7 @@ TypeAway is a simple text editor that remains completely functional offline, it 
 
 It uses a host of technologies such as IndexedDB, WebPack, and Workbox to name a few.
 
-Here's a link to the deployed site: https://sheltered-hamlet-90872.herokuapp.com/
+Here's a link to the deployed site: https://typeaway.onrender.com
 
 
 ## ScreenShots
